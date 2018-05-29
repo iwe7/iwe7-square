@@ -1,0 +1,15 @@
+:host {
+  width: var(--width);
+  padding-bottom: var(--width);
+  background-color: var(--backgroundColor);
+  position: relative;
+  height: 0 !important;
+}
+
+.iwe7-square-container {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+}
