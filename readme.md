@@ -17,5 +17,6 @@
 | iwe7-script | 加载css和js  | https://github.com/iwe7/iwe7-script |
 | iwe7-util   | script    | https://github.com/iwe7/iwe7-util   |
 | iwe7-square | 正方形组件     | https://github.com/iwe7/iwe7-square |
+| iwe7-better-scroll | 滑动组件      | https://github.com/iwe7/iwe7-better-scroll |
 
 
