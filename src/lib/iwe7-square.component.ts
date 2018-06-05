@@ -16,7 +16,8 @@ import { BaseWithIcss } from "iwe7-base";
     <ng-content></ng-content>
   </div>
   `,
-  styleUrls: ["./iwe7-square.component.scss"]
+  styleUrls: ["./iwe7-square.component.scss"],
+  providers: [Iwe7IcssService]
 })
 export class Iwe7SquareComponent extends BaseWithIcss {
   @Input() width: string;
