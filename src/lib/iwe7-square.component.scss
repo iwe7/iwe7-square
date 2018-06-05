@@ -1,10 +1,10 @@
 :host {
   width: var(--width);
-  padding-bottom: var(--width);
+  height: var(--height);
   background-color: var(--backgroundColor);
   position: relative;
   height: 0 !important;
-  display: block;
+  display: inline-block;
 }
 
 .iwe7-square-container {
