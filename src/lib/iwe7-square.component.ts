@@ -20,9 +20,9 @@ import { BaseWithIcss } from "iwe7-base";
 })
 export class Iwe7SquareComponent extends BaseWithIcss {
   @Input() width: string;
-  @Input() backgroundColor: string;
+  @Input() color: string;
   constructor(injector: Injector, public icss: Iwe7IcssService, public ele: ElementRef) {
     super(injector);
-    this.setStyleInputs(["width", "backgroundColor"]);
+    this.setStyleInputs(["width", "color"]);
   }
 }

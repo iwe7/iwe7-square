@@ -1,7 +1,7 @@
 ### 正方形容器
 
 ```html
-<iwe7-square width="100%" backgroundColor="red"></iwe7-square>
+<iwe7-square width="30" color="red"></iwe7-square>
 ```
 
 
